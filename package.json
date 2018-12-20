@@ -1,0 +1,22 @@
+{
+  "name": "fsheiness",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "fsheiness": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syndesis/fsheiness.git"
+  },
+  "author": "Frank Sheiness <frank@dough.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syndesis/fsheiness/issues"
+  },
+  "homepage": "https://github.com/syndesis/fsheiness#readme",
+  "dependencies": {
+    "colorette": "^1.0.7"
+  }
+}
